@@ -1,0 +1,352 @@
+{
+  "tiles": [
+    {
+      "id": 0,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 1,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 2,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 3,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 4,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 5,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 6,
+      "palette": "./lvls/palettes/grass/palette.txt",
+      "name": "grass",
+      "description": "it's green grass"
+    },
+    {
+      "id": 7,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 8,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 9,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 10,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 11,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 12,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 13,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 14,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 15,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 16,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 17,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 18,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 19,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 20,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 21,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 22,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 23,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 24,
+      "palette": "./lvls/palettes/house_with_path/palette.txt",
+      "name": "house with side path",
+      "description": "wooden house side with path"
+    },
+    {
+      "id": 25,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 26,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 27,
+      "palette": "./lvls/palettes/house_with_path/palette.txt",
+      "name": "house with side path",
+      "description": "wooden house with side path"
+    },
+    {
+      "id": 28,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 29,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 30,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 31,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 32,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 33,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 34,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 35,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 36,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 37,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 38,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 39,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 40,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 41,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 42,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 43,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 44,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 45,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 46,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 47,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 48,
+      "palette": "./lvls/palettes/house_windows/palette.txt",
+      "name": "house windows",
+      "description": "wooden house window tile"
+    },
+    {
+      "id": 49,
+      "palette": "./lvls/palettes/house_windows/palette.txt",
+      "name": "house windows",
+      "description": "wooden house window tile"
+    },
+    {
+      "id": 50,
+      "palette": "./lvls/palettes/house_windows/palette.txt",
+      "name": "house windows",
+      "description": "wooden house window tile"
+    },
+    {
+      "id": 51,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 52,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 53,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 54,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 55,
+      "palette": "./lvls/palettes/house/palette.txt",
+      "name": "house",
+      "description": "wooden house tile"
+    },
+    {
+      "id": 56,
+      "palette": "./lvls/palettes/house_with_path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 57,
+      "palette": "./lvls/palettes/house_with_path/palette.txt",
+      "name": "house side",
+      "description": "house with path"
+    }
+  ]
+}

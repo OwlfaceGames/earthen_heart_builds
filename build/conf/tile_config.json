@@ -1,0 +1,112 @@
+{
+  "tiles": [
+    {
+      "id": 0,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 1,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 2,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 3,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 4,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 5,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 6,
+      "palette": "./lvls/palettes/grass/palette.txt",
+      "name": "grass",
+      "description": "it's green grass"
+    },
+    {
+      "id": 7,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 8,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 9,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 10,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 11,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 12,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 13,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 14,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 15,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+    {
+      "id": 16,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    },
+                    {
+      "id": 17,
+      "palette": "./lvls/palettes/path/palette.txt",
+      "name": "path",
+      "description": "the regular path"
+    }
+  ]
+}
